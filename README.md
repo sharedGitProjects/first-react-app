@@ -1,1 +1,1 @@
-# first-react-app
+first-react-app (https://maxfarseer.gitbooks.io/react-course-ru)
